@@ -13,7 +13,7 @@
 </head>
 <body>
 
-<h1 class="text-center">Iniciar sesion </h1>
+<h1 class="text-center">Iniciar sesión </h1>
 
 <form class="container">
     <div class="mb-3">
